@@ -1,4 +1,4 @@
-## [SOURCE CODE] Traveler's Backpack Dark Mode [###]
+## [SOURCE CODE] Traveler's Backpack Dark Mode [1.14.4-1.16.4, 1.18.1]
 This is the source "code" for the **Traveler's Backpack Dark Mode** resource pack that adds a **dark GUI** to the popular mod [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) by [Tiviacz1337](https://modrinth.com/user/Tiviacz1337).
 
 !["TRAVELERS BACKPACK DARK MODE" Banner](https://i.imgur.com/fqc6Cmj.png)
